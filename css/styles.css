@@ -236,7 +236,7 @@ h3.menu-item-title {
 /********** Medium devices only **********/
 @media (min-width: 992px) and (max-width: 1199px) {
   /* Header */
-  #logo-img {
+  .logo-img {
     background: url('../images/restaurant-logo_medium.png') no-repeat;
     width: 100px;
     height: 100px;
